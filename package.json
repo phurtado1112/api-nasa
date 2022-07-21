@@ -1,0 +1,19 @@
+{
+  "name": "api-nasa",
+  "version": "1.0.0",
+  "description": "Consumo de API REST con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phurtado1112/api-nasa.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phurtado1112/api-nasa/issues"
+  },
+  "homepage": "https://github.com/phurtado1112/api-nasa#readme"
+}
